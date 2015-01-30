@@ -1,0 +1,25 @@
+{
+  "name": "facebook-js-ads-sdk",
+  "version": "0.0.0",
+  "description": "facebook unofficial js ads sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TMDer/facebook-js-ads-sdk.git"
+  },
+  "keywords": [
+    "facebook",
+    "ads",
+    "sdk",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TMDer/facebook-js-ads-sdk/issues"
+  },
+  "homepage": "https://github.com/TMDer/facebook-js-ads-sdk"
+}
